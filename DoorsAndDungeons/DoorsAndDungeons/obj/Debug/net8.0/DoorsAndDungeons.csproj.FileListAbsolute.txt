@@ -1,0 +1,14 @@
+C:\Users\Iraz\source\repos\DoorsAndDungeons\DoorsAndDungeons\bin\Debug\net8.0\DoorsAndDungeons.exe
+C:\Users\Iraz\source\repos\DoorsAndDungeons\DoorsAndDungeons\bin\Debug\net8.0\DoorsAndDungeons.deps.json
+C:\Users\Iraz\source\repos\DoorsAndDungeons\DoorsAndDungeons\bin\Debug\net8.0\DoorsAndDungeons.runtimeconfig.json
+C:\Users\Iraz\source\repos\DoorsAndDungeons\DoorsAndDungeons\bin\Debug\net8.0\DoorsAndDungeons.dll
+C:\Users\Iraz\source\repos\DoorsAndDungeons\DoorsAndDungeons\bin\Debug\net8.0\DoorsAndDungeons.pdb
+C:\Users\Iraz\source\repos\DoorsAndDungeons\DoorsAndDungeons\obj\Debug\net8.0\DoorsAndDungeons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iraz\source\repos\DoorsAndDungeons\DoorsAndDungeons\obj\Debug\net8.0\DoorsAndDungeons.AssemblyInfoInputs.cache
+C:\Users\Iraz\source\repos\DoorsAndDungeons\DoorsAndDungeons\obj\Debug\net8.0\DoorsAndDungeons.AssemblyInfo.cs
+C:\Users\Iraz\source\repos\DoorsAndDungeons\DoorsAndDungeons\obj\Debug\net8.0\DoorsAndDungeons.csproj.CoreCompileInputs.cache
+C:\Users\Iraz\source\repos\DoorsAndDungeons\DoorsAndDungeons\obj\Debug\net8.0\DoorsAndDungeons.dll
+C:\Users\Iraz\source\repos\DoorsAndDungeons\DoorsAndDungeons\obj\Debug\net8.0\refint\DoorsAndDungeons.dll
+C:\Users\Iraz\source\repos\DoorsAndDungeons\DoorsAndDungeons\obj\Debug\net8.0\DoorsAndDungeons.pdb
+C:\Users\Iraz\source\repos\DoorsAndDungeons\DoorsAndDungeons\obj\Debug\net8.0\DoorsAndDungeons.genruntimeconfig.cache
+C:\Users\Iraz\source\repos\DoorsAndDungeons\DoorsAndDungeons\obj\Debug\net8.0\ref\DoorsAndDungeons.dll
